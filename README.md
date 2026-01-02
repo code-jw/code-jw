@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🖐️반갑습니다 코딩을 공부하고 있는 박정우라고 합니다. 🖐️
 
 <!--
 **code-jw/code-jw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
