@@ -16,11 +16,10 @@
 ---
 ## 🔗 Links
 
-- **BOJ**  
-- **CodeUp**  
-- **Tistory**
+- [**BOJ**](https://www.acmicpc.net/user/bookjw1057)  
+- [**CodeUp**](https://www.codeup.kr/userinfo.php?user=bookjw1057)  
+- [**Tistory**](https://codejw.tistory.com/)
   
 ---
 ## 📫 Contact
 - **Email**: [bookjw1057@gmail.com](mailto:bookjw1057@gmail.com)
-- **Discord**: [Profile](https://discord.com/users/bookjw1057)
