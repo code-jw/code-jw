@@ -19,4 +19,8 @@
 - **BOJ**  
 - **CodeUp**  
 - **Tistory**
-- [**Email**](matilto:hey.bookjw1057@naver.com)
+  
+---
+## 📫 Contact
+- **Email**: [bookjw1057@gmail.com](mailto:bookjw1057@gmail.com)
+- **Discord**: [Profile](https://discord.com/users/bookjw1057)
