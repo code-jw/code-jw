@@ -12,4 +12,11 @@
 
 </p>
 
+
 ---
+## 🔗 Links
+
+- **BOJ**  
+- **CodeUp**  
+- **Tistory**
+- [**Email**](matilto:hey.bookjw1057@naver.com)
