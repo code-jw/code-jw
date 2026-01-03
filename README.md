@@ -23,3 +23,11 @@
 ---
 ## 📫 Contact
 - **Email**: [bookjw1057@gmail.com](mailto:bookjw1057@gmail.com)
+
+---
+## 🏆Achievements
+- **2025 제5회 청소년 IT경시대회**: 특별상
+- CosPro 1급 파이썬 취득
+- CosPro 2급 C언어 취득
+
+###### 더 노력하여 좋은 성과를 만들어내겠습니다.
